@@ -1,4 +1,3 @@
-import pandas as pd
 from src.preprocess import load_and_clean
 
 def test_load_and_clean():
